@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Introduction](#introduction)
 - [Installing AdvertisementDemo](#installing-AdvertisementDemo)
-- [iOS Sample App](#ios-sample-app)
+- [iOS Sample App](#ObjectivC-Examples)
 
 ## Introduction
 
@@ -16,13 +16,13 @@ AdvertisementDemo 是一个模仿界面新闻广告实现效果的一个Demo, �
 <!--![Example1](_Gifs/Examples1.gif)-->
 ![Example2](_Gifs/demo.gif)
 
-## Installing AdvertisementDemo
+## Installing-AdvertisementDemo
 
 ### Github Repo
 
 下载代码 [AdvertisementDemo Github Repo](https://github.com/yuhengZhu/AdvertisementDemo/).
 
-## Objective C Examples
+## ObjectivC-Examples
 
 以下介绍实现的要点:
 
