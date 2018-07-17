@@ -13,7 +13,7 @@ AdvertisementDemo 是一个模仿界面新闻广告实现效果的一个Demo, �
 
 这里展示了界面新闻的广告效果和本Demo实现的效果的对比
 
-<!--![Example1](_Gifs/Examples1.gif)-->
+![Example1](_Gifs/example.gif)
 ![Example2](_Gifs/demo.gif)
 
 ## Installing-AdvertisementDemo
